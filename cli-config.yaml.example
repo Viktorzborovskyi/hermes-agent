@@ -2,7 +2,7 @@
 # Copy this file to cli-config.yaml and customize as needed.
 # This file configures the CLI behavior. Environment variables in .env take precedence.
 
-# =============================================================================
+# ============================================================================= 
 # Model Configuration
 # =============================================================================
 model:
